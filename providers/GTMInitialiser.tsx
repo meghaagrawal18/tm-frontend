@@ -5,7 +5,7 @@ import TagManager from "react-gtm-module";
 function GTMInitialiser() {
   useEffect(() => {
     const tagManagerArgs = {
-      gtmId: "GTM-NGW9WFTP",
+      gtmId: "GTM-K3DX9DVX",
     };
 
     TagManager.initialize(tagManagerArgs);
